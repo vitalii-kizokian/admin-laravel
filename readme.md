@@ -1,20 +1,7 @@
-# WireUI
+# Admin dashboard (Laravel)
 
-<p align="center">
-    <a href="https://github.com/wireui/wireui/">
-    <img src="https://img.shields.io/packagist/dt/wireui/wireui" alt="Packagist Downloads" data-canonical-src="https://img.shields.io/packagist/dt/wireui/wireui" style="max-width:100%;" />
-    </a>
-    <a href="https://github.com/wireui/wireui/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/wireui/wireui" alt="GitHub license" data-canonical-src="https://img.shields.io/github/license/wireui/wireui" style="max-width:100%;" />
-    </a>
-    <a href="https://twitter.com/ph7jack"><img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FPH7-Jack%2Fwireui"></a>
-    </a>
-</p>
-<p align="center">
-    <a href="https://livewire-wireui.com" target="_blank">📚 Documentation</a>
-</p>
 
-Wire UI is a library of components and resources to empower your Laravel and Livewire application development.
+Admin UI is a library of components and resources to empower your Laravel and Livewire application development.
 
 Starting a new project with Livewire can be time-consuming when you have to create all the components from scratch. Wire UI helps to skip this step and get you straight to the development phase.
 
@@ -26,7 +13,7 @@ If you are looking for the version with support to tailwind v2, please check out
 
 <div align="center">
     <p>
-        <img  src="resources/images/features.png" alt="Wire UI Features"/>
+        <img  src="resources/images/features.png" alt="Admin UI Features"/>
     </p>
 </div>
 
@@ -37,7 +24,7 @@ If you are looking for the version with support to tailwind v2, please check out
 - Confirmation notifications
 - All Heroicons
 
-🌱 Wire UI is in active development. Track all changes in the project [Changelog].
+🌱 This project is in active development. Track all changes in the project [Changelog].
 
 <br/>
 
@@ -49,7 +36,7 @@ Please visit our [Get Started] page for requirements and a step-by-step installa
 
 <h2>📣 Follow the author</h2>
 
-Stay informed about WireUI, follow [@ph7jack] on Twitter.
+Stay informed about Admin UI, follow [@ph7jack] on Twitter.
 
 There will you see all the latest news about features, ideas, discussions and more...
 
@@ -69,9 +56,3 @@ All contributions are welcome!
 
 MIT
 
-[TALL stack]: https://tallstack.dev
-[Changelog]: https://livewire-wireui.com/docs/changelog
-[Get Started]: https://livewire-wireui.com/docs/get-started
-[Documentation]: https://livewire-wireui.com
-[@ph7jack]: https://twitter.com/ph7jack
-[Pedro Henrique]: https://github.com/PH7-Jack
